@@ -1,0 +1,9 @@
+@import './colors.css';
+
+body {
+  background-color: var(--color-lightPrimary);
+  color: var(--color-primaryText);
+}
+* {
+  font-family: IranSansRegular;
+}
