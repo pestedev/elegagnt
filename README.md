@@ -1,1 +1,1 @@
-# elegagnt
+# elegant
